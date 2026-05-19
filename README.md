@@ -351,21 +351,14 @@ Export data into:
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jayavardhani05/Student-Management-System.git
 ```
 
-Example:
-
-```bash
-git clone https://github.com/username/student-management-system.git
-```
-
----
 
 ## Navigate to Project Folder
 
 ```bash
-cd student-management-system
+cd Student-Management-System
 ```
 
 ---
@@ -425,7 +418,7 @@ git commit -m "Initial commit"
 ## Connect Remote Repository
 
 ```bash
-git remote add origin https://github.com/username/student-management-system.git
+git remote add origin https://github.com/Jayavardhani05/Student-Management-System.git
 ```
 
 ---
